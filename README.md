@@ -43,8 +43,9 @@ Actively contributing to open-source projects on GitHub. Check out my work [here
 ---
 
 ## Connect With Me
-- [GitHub](https://github.com/ishtiak13)  
-- [LinkedIn](https://www.linkedin.com/in/its-ishtiak)  
-- [Email](mailto:ishtiakalhumaidi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ishtiak13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/its-ishtiak)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ishtiakalhumaidi@gmail.com)
 
-Feel free to explore my repositories and reach out if you'd like to collaborate!
+---
+⚡ I love coding, building projects, and constantly learning new things. Let's collaborate!
