@@ -87,9 +87,7 @@ Feel free to look around and check out my projects.
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ishtiak13&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" width="48%" alt="Ishtiak's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishtiak13&theme=tokyonight&hide_border=true&border_radius=20" width="48%" alt="Ishtiak's Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiak13&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" width="48%" alt="Top Languages" />
+![GitHub Analytics](https://github-profile-summary-cards.vercel.app/api/cards/github-profile-details?username=Ishtiak13&theme=2077)
  
 </div>
 
