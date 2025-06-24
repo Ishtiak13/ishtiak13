@@ -1,8 +1,8 @@
 # 👋 Welcome to My GitHub!
 
-Hi, I'm **Ishtiak Al Humaidi** — a Computer Science & Engineering student at BRAC University (Dhaka) and a passionate **Full Stack Developer**. I build responsive, user-friendly web applications using modern tools and technologies.
+Hi, I'm **Ishtiak Al Humaidi**. I'm studying Computer Science & Engineering at BRAC University in Dhaka. I build web applications using tools like JavaScript, React, Node.js, and MongoDB.
 
-Thanks for stopping by — feel free to explore my work!
+Feel free to look around and check out my projects.
 
 ---
 
