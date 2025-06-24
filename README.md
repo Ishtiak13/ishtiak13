@@ -93,6 +93,14 @@ Feel free to look around and check out my projects.
  
 </div>
 
+---
+## 📊 Detailed Analytics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishtiak13&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishtiak13&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishtiak13&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishtiak13&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishtiak13&theme=2077&utcOffset=6)
 
 ---
 
