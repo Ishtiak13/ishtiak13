@@ -65,6 +65,13 @@ Thanks for stopping by — feel free to explore my work!
 ![Ishtiak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishtiak13&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiak13&layout=compact)
 
+![Ishtiak's Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=ishtiak13&theme=default)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ishtiak13&label=Profile%20views&color=0e75b6&style=flat)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ishtiak13&theme=flat&column=4&margin-w=15&margin-h=15)
+
+
 ---
 
 🙏 Thank you for visiting my profile!  
