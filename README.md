@@ -83,6 +83,8 @@ Feel free to look around and check out my projects.
 ---
 
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
 <!-- Main Analytics Card (minimal colors) -->
@@ -96,6 +98,8 @@ Feel free to look around and check out my projects.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishtiak13&theme=github_dark&utcOffset=6" alt="Productive Time" />
 
 </div>
+
+
 ---
 
 🙏 **Thank you for visiting my profile!**  
