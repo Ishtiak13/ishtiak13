@@ -81,24 +81,23 @@ Feel free to look around and check out my projects.
 </a>
 
 ---
----
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Analytics](https://github-profile-summary-cards.vercel.app/api/cards/github-profile-details?username=Ishtiak13&theme=2077)
- 
+<!-- Main Analytics Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/github-profile-details?username=Ishtiak13&theme=2077" alt="GitHub Analytics" />
+
+<!-- Detailed Analytics Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishtiak13&theme=2077" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishtiak13&theme=2077" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishtiak13&theme=2077" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishtiak13&theme=2077" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishtiak13&theme=2077&utcOffset=6" alt="Productive Time" />
+
 </div>
-
----
-## 📊 Detailed Analytics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishtiak13&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishtiak13&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishtiak13&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishtiak13&theme=2077)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishtiak13&theme=2077&utcOffset=6)
 
 ---
 
