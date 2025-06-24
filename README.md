@@ -60,7 +60,7 @@ Thanks for stopping by — feel free to explore my work!
   <!-- VS Code -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <!-- GitHub -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="GitHub" width="40" height="40"/>
 </p>
 ---
 
