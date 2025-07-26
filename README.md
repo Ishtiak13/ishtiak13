@@ -70,9 +70,6 @@ Feel free to look around and check out my projects.
 
 ## 📬 Connect With Me
 
-<a href="https://github.com/ishtiak13" target="_blank">
-  <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="GitHub profile" width="40" height="40"/>
-</a>
 <a href="https://www.linkedin.com/in/its-ishtiak" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn profile" width="40" height="40"/>
 </a>
