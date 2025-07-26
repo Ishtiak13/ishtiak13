@@ -84,8 +84,6 @@ Feel free to look around and check out my projects.
 
 <div align="center">
 
-<!-- Main Analytics Card (minimal colors) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/github-profile-details?username=Ishtiak13&theme=github_dark" alt="GitHub Analytics" />
 
 <!-- Detailed Analytics Cards (minimal colors) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishtiak13&theme=github_dark" alt="Profile Details" />
