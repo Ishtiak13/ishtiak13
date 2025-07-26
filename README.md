@@ -47,7 +47,7 @@ Feel free to look around and check out my projects.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/512317/github-142.svg" alt="GitHub (white)" width="40" height="40"/>
+  <img src="https://i.postimg.cc/j2GK6jYr/image.png" alt="GitHub (white)" width="40" height="40"/>
 </p>
 
 ---
