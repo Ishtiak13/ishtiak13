@@ -5,12 +5,6 @@
 
 </p>
 
-<p align="center">
-Hi, I'm <b>Ishtiak Al Humaidi</b>. I'm studying Computer Science & Engineering at BRAC University in Dhaka.<br>
-I build web applications using JavaScript, React, Node.js, and MongoDB.<br>
-Feel free to look around and check out my projects.
-</p>
-
 <hr style="border:1px solid #4F8EF7; margin: 1.5em 0;" />
 
 ## 📋 About Me
