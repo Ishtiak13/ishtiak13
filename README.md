@@ -90,9 +90,6 @@ Feel free to look around and check out my projects.
 
 ## 📊 GitHub Analytics
 
-
-
-
 <div align="center">
 
 
@@ -100,8 +97,7 @@ Feel free to look around and check out my projects.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ishtiak13&theme=github_dark" alt="Profile Details" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ishtiak13&theme=github_dark" alt="Repos per Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ishtiak13&theme=github_dark" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ishtiak13&theme=github_dark" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ishtiak13&theme=github_dark&utcOffset=6" alt="Productive Time" />
+
 
 </div>
 
