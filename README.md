@@ -26,7 +26,7 @@ Feel free to look around and check out my projects.
 <p align="left">
   <img src="https://i.postimg.cc/50bm05Xh/image.png" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
