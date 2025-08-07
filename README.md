@@ -84,7 +84,7 @@ Feel free to look around and check out my projects.
 
 <br />
 <p align="center">
- <a href="https://git.io/streak-stats"><img width="60%" src="https://streak-stats.demolab.com?user=Ishtiak13&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" /></a>
+ <img src="https://streak-stats.demolab.com?user=Ishtiak13&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
