@@ -83,9 +83,12 @@ Feel free to look around and check out my projects.
 
 ## 📊 GitHub Analytics
 
+## 🔥 Streak Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishtiak13&theme=react&hide_border=true" alt="streak-stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Ishtiak13&theme=react&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
+
 
 <div align="center">
 
