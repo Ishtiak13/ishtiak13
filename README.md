@@ -86,7 +86,7 @@ Feel free to look around and check out my projects.
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ishtiak13&theme=react&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=ishtiak13&theme=react&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
 
