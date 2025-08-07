@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=500&color=4F8EF7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Welcome+to+Ishtiak's+GitHub!;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ishtiak13&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
